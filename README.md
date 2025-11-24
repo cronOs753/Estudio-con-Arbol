@@ -1,4 +1,4 @@
-# Estudio-con-Arbol
+# Autodidacta 
 En este repositorio voy a estar publicando mi proceso de aprendizaje de HTML, CSS y JavaScript, basado en 
 proyectos.
 
